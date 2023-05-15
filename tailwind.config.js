@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        montserrat: ['montserrat', 'sans-serif']
+        montserrat: ['montserrat', 'sans-serif'],
+        gifTitles: ['Permanent Marker', 'cursive']
       },
       colors: {
         gifBlue: '#4C4C6D',
