@@ -1,8 +1,8 @@
 
 function App () {
   return (
-    <div>
-      <h1 >GifManiac</h1>
+    <div className="w-screen h-screen flex justify-center items-center bg-gifBlue">
+
     </div>
   )
 }
