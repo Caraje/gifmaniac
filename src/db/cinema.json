@@ -1,0 +1,88 @@
+{
+  "cinema": [
+    {
+      "id": 1,
+      "original_title": "Star Wars: Episode IV - A New Hope",
+      "titles": [
+        "La Guerra de las Galaxias: Episodio IV - Una Nueva Esperanza",
+        "La Guerra de las Galaxias: Episodio IV - Una Nueva Esperanza",
+        "Star Wars: Episode IV - A New Hope"
+      ]
+    },
+    {
+      "id": 2,
+      "original_title": "The Shawshank Redemption",
+      "titles": [
+        "Cadena Perpetua",
+        "Sueño de Fuga",
+        "The Shawshank Redemption"
+      ]
+    },
+    {
+      "id": 3,
+      "original_title": "The Godfather",
+      "titles": [
+        "El Padrino",
+        "El Padrino",
+        "The Godfather"
+      ]
+    },
+    {
+      "id": 4,
+      "original_title": "The Dark Knight",
+      "titles": [
+        "El Caballero oscuro",
+        "El Caballero de la Noche",
+        "The Dark Knight"
+      ]
+    },
+    {
+      "id": 5,
+      "original_title": "Pulp Fiction",
+      "titles": [
+        "Tiempos Violentos",
+        "Pulp Fiction"
+      ]
+    },
+    {
+      "id": 6,
+      "original_title": "The Matrix",
+      "titles": [
+        "Matrix",
+        "The Matrix"
+      ]
+    },
+    {
+      "id": 7,
+      "original_title": "Forrest Gump",
+      "titles": [
+        "Forrest Gump"
+      ]
+    },
+    {
+      "id": 8,
+      "original_title": "Back to the Future",
+      "titles": [
+        "Regreso al Futuro",
+        "Volver al Futuro",
+        "Back to the Future"
+      ]
+    },
+    {
+      "id": 9,
+      "original_title": "Jurassic Park",
+      "titles": [
+        "Parque Jurásico",
+        "Jurassic Park"
+      ]
+    },
+    {
+      "id": 10,
+      "original_title": "Indiana Jones and the Raiders of the Lost Ark",
+      "titles": [
+        "Indiana Jones y los cazadores del arca perdida",
+        "Indiana Jones and the Raiders of the Lost Ark"
+      ]
+    }
+  ]
+}
