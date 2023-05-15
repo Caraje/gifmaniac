@@ -5,6 +5,7 @@ export const GamePage = () => {
   return (
     <div className="w-screen h-screen flex justify-center items-center bg-gifBlue">
       Esta es la pantalla de juego de {data}
+      <a href="/">Volver</a>
     </div>
   )
 }
