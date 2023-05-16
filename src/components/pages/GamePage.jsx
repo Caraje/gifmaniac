@@ -1,9 +1,10 @@
+import { useFetchGifs } from '../../hooks/useFetchGifs'
 import { OptionsGame } from '../ui/OptionsGame'
 
 export const GamePage = () => {
-  console.log(window.location.pathname)
   const pathName = window.location.pathname
   const category = pathName === '/cinema' ? 'Cine' : pathName === '/series' ? 'Series' : 'Videojuegos'
+  const { data, loading } = useFetchGifs('mario Odyssei')
 
   return (
     <main className="w-screen  flex flex-col justify-center items-center gap-10 bg-gifBlue p-4">
@@ -14,8 +15,8 @@ export const GamePage = () => {
         </header>
         <footer className='w-full flex flex-col gap-4 justify-center items-center'>
           <div className='relative w-full flex justify-center items-center border-2 border-gifyellow rounded-2xl overflow-hidden'>
-            <img className='w-full max-h-[600px] object-contain z-10' src='/static_img/mario3.gif'/>
-            <img className=' absolute w-full max-h-[600px] object-cover blur-lg' src='/static_img/mario3.gif'/>
+            <img className='w-full max-h-[600px] object-contain z-10' src={data[3]?.url}/>
+            <img className=' absolute w-full max-h-[600px] object-cover blur-lg' src={data[3]?.url}/>
           </div>
           <h2 className='font-montserrat font-semibold text-gifyellow text-lg '>Adivina el {category} con el Gif</h2>
           <form className='w-full flex flex-col sm:flex-row gap-4'>
