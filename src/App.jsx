@@ -6,7 +6,7 @@ import { Footer } from './components/ui/Footer'
 const NotFound = () => <Navigate to="/" replace />
 function App () {
   return (
-  <div className="w-screen h-screen flex flex-col justify-center items-center">
+  <div className=" flex flex-col justify-between items-center min-h-screen">
 
     <a
       href='/'
