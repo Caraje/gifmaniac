@@ -1,0 +1,20 @@
+{
+  "routes": [
+    {
+      "src": "/",
+      "dest": "/"
+    },
+    {
+      "src": "/cinema",
+      "dest": "/"
+    },
+    {
+      "src": "/series",
+      "dest": "/"
+    },
+    {
+      "src": "/videogames",
+      "dest": "/"
+    }
+  ]
+}
