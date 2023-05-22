@@ -1,94 +1,423 @@
 {
   "videogames": [
-    {
-      "id": 1,
-      "original_title": "The Legend of Zelda: Breath of the Wild",
-      "titles": [
-        "The Legend of Zelda: Breath of the Wild",
-        "The Legend of Zelda: Breath of the Wild",
-        "The Legend of Zelda: Breath of the Wild"
-      ]
-    },
-    {
-      "id": 2,
-      "original_title": "Grand Theft Auto V",
-      "titles": [
-        "Grand Theft Auto V",
-        "Grand Theft Auto V",
-        "Grand Theft Auto V"
-      ]
-    },
-    {
-      "id": 3,
-      "original_title": "Minecraft",
-      "titles": [
-        "Minecraft",
-        "Minecraft",
-        "Minecraft"
-      ]
-    },
-    {
-      "id": 4,
-      "original_title": "Super Mario Odyssey",
-      "titles": [
-        "Super Mario Odyssey",
-        "Super Mario Odyssey",
-        "Super Mario Odyssey"
-      ]
-    },
-    {
-      "id": 5,
-      "original_title": "The Witcher 3: Wild Hunt",
-      "titles": [
-        "The Witcher 3: Wild Hunt",
-        "The Witcher 3: Wild Hunt",
-        "The Witcher 3: Wild Hunt"
-      ]
-    },
-    {
-      "id": 6,
-      "original_title": "Red Dead Redemption 2",
-      "titles": [
-        "Red Dead Redemption 2",
-        "Red Dead Redemption 2",
-        "Red Dead Redemption 2"
-      ]
-    },
-    {
-      "id": 7,
-      "original_title": "Super Smash Bros. Ultimate",
-      "titles": [
-        "Super Smash Bros. Ultimate",
-        "Super Smash Bros. Ultimate",
-        "Super Smash Bros. Ultimate"
-      ]
-    },
-    {
-      "id": 8,
-      "original_title": "Final Fantasy VII Remake",
-      "titles": [
-        "Final Fantasy VII Remake",
-        "Final Fantasy VII Remake",
-        "Final Fantasy VII Remake"
-      ]
-    },
-    {
-      "id": 9,
-      "original_title": "Assassin's Creed Valhalla",
-      "titles": [
-        "Assassin's Creed Valhalla",
-        "Assassin's Creed Valhalla",
-        "Assassin's Creed Valhalla"
-      ]
-    },
-    {
-      "id": 10,
-      "original_title": "Call of Duty: Modern Warfare",
-      "titles": [
-        "Call of Duty: Modern Warfare",
-        "Call of Duty: Modern Warfare",
-        "Call of Duty: Modern Warfare"
-      ]
-    }
-  ]
-}
+      {
+        "id": 1,
+        "original_title": "Pac-Man",
+        "titles": [
+          "Pac-Man",
+          "Pac Man",
+          "PacMan"
+        ]
+      },
+      {
+        "id": 2,
+        "original_title": "Super Mario Bros.",
+        "titles": [
+          "Super Mario Bros",
+          "Super Mario Brothers",
+          "Super Mario"
+        ]
+      },
+      {
+        "id": 3,
+        "original_title": "The Legend of Zelda",
+        "titles": [
+          "The Legend of Zelda"
+        ]
+      },
+      {
+        "id": 4,
+        "original_title": "Tetris",
+        "titles": [
+          "Tetris"
+        ]
+      },
+      {
+        "id": 5,
+        "original_title": "Final Fantasy VII",
+        "titles": [
+          "Final Fantasy VII",
+          "Final Fantasy 7"
+        ]
+      },
+      {
+        "id": 6,
+        "original_title": "Metal Gear Solid",
+        "titles": [
+          "Metal Gear Solid"
+        ]
+      },
+      {
+        "id": 7,
+        "original_title": "Street Fighter II",
+        "titles": [
+          "Street Fighter II",
+          "Street Fighter 2",
+          "Street Fighter"
+        ]
+      },
+      {
+        "id": 8,
+        "original_title": "The Sims",
+        "titles": [
+          "The Sims",
+          "Los Sims",
+          "Sims"
+        ]
+      },
+      {
+        "id": 9,
+        "original_title": "Minecraft",
+        "titles": [
+          "Minecraft"
+        ]
+      },
+      {
+        "id": 10,
+        "original_title": "Grand Theft Auto V",
+        "titles": [
+          "Grand Theft Auto V",
+          "GTA V"
+        ]
+      },
+      {
+        "id": 11,
+        "original_title": "The Witcher 3: Wild Hunt",
+        "titles": [
+          "The Witcher 3: Wild Hunt",
+          "The Witcher 3 Wild Hunt",
+          "The Witcher Wild Hunt",
+          "The Witcher 3"
+        ]
+      },
+      {
+        "id": 12,
+        "original_title": "World of Warcraft",
+        "titles": [
+          "World of Warcraft"
+        ]
+      },
+      {
+        "id": 13,
+        "original_title": "BioShock",
+        "titles": [
+          "BioShock"
+        ]
+      },
+      {
+        "id": 14,
+        "original_title": "Fallout 3",
+        "titles": [
+          "Fallout 3"
+        ]
+      },
+      {
+        "id": 15,
+        "original_title": "Uncharted 2: Among Thieves",
+        "titles": [
+          "Uncharted 2: Among Thieves",
+          "Uncharted Among Thieves",
+          "Uncharted: Among Thieves",
+          "Uncharted 2 Among Thieves",
+          "Uncharted 2",
+          "Uncharted 2: El reino de los ladrones",
+          "Uncharted 2 El reino de los ladrones",
+          "Uncharted  El reino de los ladrones",
+          "El reino de los ladrones"
+        ]
+      },
+      {
+        "id": 16,
+        "original_title": "Red Dead Redemption 2",
+        "titles": [
+          "Red Dead Redemption 2"
+        ]
+      },
+      {
+        "id": 17,
+        "original_title": "The Last of Us",
+        "titles": [
+          "The Last of Us"
+        ]
+      },
+      {
+        "id": 18,
+        "original_title": "Half-Life 2",
+        "titles": [
+          "Half-Life 2"
+        ]
+      },
+      {
+        "id": 19,
+        "original_title": "Resident Evil 4",
+        "titles": [
+          "Resident Evil 4"
+        ]
+      },
+      {
+        "id": 20,
+        "original_title": "Super Smash Bros. Ultimate",
+        "titles": [
+          "Super Smash Bros Ultimate",
+          "Super Smash Bros",
+          "Super Smash Bros. Ultimate"
+        ]
+      },
+      {
+        "id": 21,
+        "original_title": "Portal",
+        "titles": [
+          "Portal"
+        ]
+      },
+      {
+        "id": 22,
+        "original_title": "Mass Effect 2",
+        "titles": [
+          "Mass Effect 2",
+          "Mass Effect parte 2"
+        ]
+      },
+      {
+        "id": 23,
+        "original_title": "The Elder Scrolls V: Skyrim",
+        "titles": [
+          "The Elder Scrolls V: Skyrim",
+          "The Elder Scrolls V Skyrim",
+          "Skyrim",
+          "The Elder Scrolls V: Skyrim",
+          "The Elder Scrolls V"
+        ]
+      },
+      {
+        "id": 24,
+        "original_title": "Super Metroid",
+        "titles": [
+          "Super Metroid",
+          "Metroid"
+        ]
+      },
+      {
+        "id": 25,
+        "original_title": "Diablo II",
+        "titles": [
+          "Diablo II",
+          "Diablo 2"
+        ]
+      },
+      {
+        "id": 26,
+        "original_title": "Halo: Combat Evolved",
+        "titles": [
+          "Halo: Combat Evolved",
+          "Halo",
+          "Halo Combat Evolved"
+        ]
+      },
+      {
+        "id": 27,
+        "original_title": "Dark Souls",
+        "titles": [
+          "Dark Souls"
+        ]
+      },
+      {
+        "id": 28,
+        "original_title": "Super Mario 64",
+        "titles": [
+          "Super Mario 64"
+        ]
+      },
+      {
+        "id": 29,
+        "original_title": "Shadow of the Colossus",
+        "titles": [
+          "Shadow of the Colossus"
+        ]
+      },
+      {
+        "id": 30,
+        "original_title": "Chrono Trigger",
+        "titles": [
+          "Chrono Trigger"
+        ]
+      },
+      {
+        "id": 31,
+        "original_title": "God of War (2018)",
+        "titles": [
+          "God of War (2018)",
+          "God of War 2018",
+          "God of War"
+        ]
+      },
+      {
+        "id": 32,
+        "original_title": "The Legend of Zelda: Ocarina of Time",
+        "titles": [
+          "The Legend of Zelda: Ocarina of Time",
+          "The Legend of Zelda Ocarina of Time",
+          "Ocarina of Time"
+        ]
+      },
+      {
+        "id": 33,
+        "original_title": "Final Fantasy VI",
+        "titles": [
+          "Final Fantasy VI"
+        ]
+      },
+      {
+        "id": 34,
+        "original_title": "Super Mario World",
+        "titles": [
+          "Super Mario World"
+        ]
+      },
+      {
+        "id": 35,
+        "original_title": "Mortal Kombat",
+        "titles": [
+          "Mortal Kombat"
+        ]
+      },
+      {
+        "id": 36,
+        "original_title": "The Sims 2",
+        "titles": [
+          "The Sims 2",
+          "Sims 2",
+          "Los Sims 2"
+        ]
+      },
+      {
+        "id": 37,
+        "original_title": "Pokemon Red and Blue",
+        "titles": [
+          "Pokemon Red and Blue",
+          "Pokemon Rojo/Azul",
+          "Pokemon Rojo Azul",
+          "Pokemon Rojo - Azul",
+          "Pokemon Rojo & Azul",
+          "Pokemon Rojo y Azul"
+        ]
+      },
+      {
+        "id": 38,
+        "original_title": "Grand Theft Auto: San Andreas",
+        "titles": [
+          "Grand Theft Auto: San Andreas",
+          "Grand Theft Auto San Andreas",
+          "GTA: San Andreas",
+          "GTA San Andreas",
+          "San Andreas"
+        ]
+      },
+      {
+        "id": 39,
+        "original_title": "Bioshock Infinite",
+        "titles": [
+          "Bioshock Infinite"
+        ]
+      },
+      {
+        "id": 40,
+        "original_title": "Star Wars: Knights of the Old Republic",
+        "titles": [
+          "Star Wars: Knights of the Old Republic",
+          "Star Wars Knights of the Old Republic",
+          "Knights of the Old Republic",
+          "Kotor",
+          "Star Wars Caballeros de la Antigua República",
+          "Caballeros de la Antigua República",
+          "Star Wars: Caballeros de la Antigua República"
+        ]
+      },
+      {
+        "id": 41,
+        "original_title": "Final Fantasy X",
+        "titles": [
+          "Final Fantasy X"
+        ]
+      },
+      {
+        "id": 42,
+        "original_title": "Uncharted 4: A Thief's End",
+        "titles": [
+          "Uncharted 4: A Thief's End",
+          "Uncharted 4 A Thief's End",
+          "A Thief's End",
+          "Thief's End",
+          "Uncharted 4",
+          "El Desenlace del Ladrón",
+          "Uncharted 4 El Desenlace del Ladrón"
+        ]
+      },
+      {
+        "id": 43,
+        "original_title": "Mass Effect",
+        "titles": [
+          "Mass Effect"
+        ]
+      },
+      {
+        "id": 44,
+        "original_title": "Portal 2",
+        "titles": [
+          "Portal 2"
+        ]
+      },
+      {
+        "id": 45,
+        "original_title": "Fallout: New Vegas",
+        "titles": [
+          "Fallout: New Vegas",
+          "Fallout New Vegas",
+          "Fallout"
+        ]
+      },
+      {
+        "id": 46,
+        "original_title": "Super Mario Odyssey",
+        "titles": [
+          "Super Mario Odyssey",
+          "Mario Odyssey"
+        ]
+      },
+      {
+        "id": 47,
+        "original_title": "The Elder Scrolls IV: Oblivion",
+        "titles": [
+          "The Elder Scrolls IV: Oblivion",
+          "The Elder Scrolls IV Oblivion",
+          "The Elder Scrolls 4 Oblivion",
+          "The Elder Scrolls 4: Oblivion",
+          "Oblivion"
+        ]
+      },
+      {
+        "id": 48,
+        "original_title": "Undertale",
+        "titles": [
+          "Undertale"
+        ]
+      },
+      {
+        "id": 49,
+        "original_title": "The Witcher 2: Assassins of Kings",
+        "titles": [
+          "The Witcher 2: Assassins of Kings",
+          "The Witcher 2 Assassins of Kings",
+          "The Witcher 2",
+          "Assassins of Kings"
+        ]
+      },
+      {
+        "id": 50,
+        "original_title": "Overwatch",
+        "titles": [
+          "Overwatch"
+        ]
+      }
+    ]
+  }
