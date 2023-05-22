@@ -1,0 +1,96 @@
+{
+
+
+"series": [
+  {
+    "id": 1,
+    "original_title": "Friends",
+    "titles": [
+      "Friends",
+      "Friends",
+      "Friends"
+    ]
+  },
+  {
+    "id": 2,
+    "original_title": "Breaking Bad",
+    "titles": [
+      "Breaking Bad",
+      "Breaking Bad",
+      "Breaking Bad"
+    ]
+  },
+  {
+    "id": 3,
+    "original_title": "Stranger Things",
+    "titles": [
+      "Stranger Things",
+      "Stranger Things",
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": 4,
+    "original_title": "Game of Thrones",
+    "titles": [
+      "Juego de Tronos",
+      "Game of Thrones",
+      "Game of Thrones"
+    ]
+  },
+  {
+    "id": 5,
+    "original_title": "The Office",
+    "titles": [
+      "The Office",
+      "The Office",
+      "The Office"
+    ]
+  },
+  {
+    "id": 6,
+    "original_title": "Sherlock",
+    "titles": [
+      "Sherlock",
+      "Sherlock",
+      "Sherlock"
+    ]
+  },
+  {
+    "id": 7,
+    "original_title": "Stranger Things",
+    "titles": [
+      "Stranger Things",
+      "Stranger Things",
+      "Stranger Things"
+    ]
+  },
+  {
+    "id": 8,
+    "original_title": "Breaking Bad",
+    "titles": [
+      "Breaking Bad",
+      "Breaking Bad",
+      "Breaking Bad"
+    ]
+  },
+  {
+    "id": 9,
+    "original_title": "Friends",
+    "titles": [
+      "Friends",
+      "Friends",
+      "Friends"
+    ]
+  },
+  {
+    "id": 10,
+    "original_title": "Game of Thrones",
+    "titles": [
+      "Juego de Tronos",
+      "Game of Thrones",
+      "Game of Thrones"
+    ]
+  }
+]
+}

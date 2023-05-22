@@ -1,0 +1,94 @@
+{
+  "videogames": [
+    {
+      "id": 1,
+      "original_title": "The Legend of Zelda: Breath of the Wild",
+      "titles": [
+        "The Legend of Zelda: Breath of the Wild",
+        "The Legend of Zelda: Breath of the Wild",
+        "The Legend of Zelda: Breath of the Wild"
+      ]
+    },
+    {
+      "id": 2,
+      "original_title": "Grand Theft Auto V",
+      "titles": [
+        "Grand Theft Auto V",
+        "Grand Theft Auto V",
+        "Grand Theft Auto V"
+      ]
+    },
+    {
+      "id": 3,
+      "original_title": "Minecraft",
+      "titles": [
+        "Minecraft",
+        "Minecraft",
+        "Minecraft"
+      ]
+    },
+    {
+      "id": 4,
+      "original_title": "Super Mario Odyssey",
+      "titles": [
+        "Super Mario Odyssey",
+        "Super Mario Odyssey",
+        "Super Mario Odyssey"
+      ]
+    },
+    {
+      "id": 5,
+      "original_title": "The Witcher 3: Wild Hunt",
+      "titles": [
+        "The Witcher 3: Wild Hunt",
+        "The Witcher 3: Wild Hunt",
+        "The Witcher 3: Wild Hunt"
+      ]
+    },
+    {
+      "id": 6,
+      "original_title": "Red Dead Redemption 2",
+      "titles": [
+        "Red Dead Redemption 2",
+        "Red Dead Redemption 2",
+        "Red Dead Redemption 2"
+      ]
+    },
+    {
+      "id": 7,
+      "original_title": "Super Smash Bros. Ultimate",
+      "titles": [
+        "Super Smash Bros. Ultimate",
+        "Super Smash Bros. Ultimate",
+        "Super Smash Bros. Ultimate"
+      ]
+    },
+    {
+      "id": 8,
+      "original_title": "Final Fantasy VII Remake",
+      "titles": [
+        "Final Fantasy VII Remake",
+        "Final Fantasy VII Remake",
+        "Final Fantasy VII Remake"
+      ]
+    },
+    {
+      "id": 9,
+      "original_title": "Assassin's Creed Valhalla",
+      "titles": [
+        "Assassin's Creed Valhalla",
+        "Assassin's Creed Valhalla",
+        "Assassin's Creed Valhalla"
+      ]
+    },
+    {
+      "id": 10,
+      "original_title": "Call of Duty: Modern Warfare",
+      "titles": [
+        "Call of Duty: Modern Warfare",
+        "Call of Duty: Modern Warfare",
+        "Call of Duty: Modern Warfare"
+      ]
+    }
+  ]
+}
