@@ -1,96 +1,412 @@
 {
-
-
-"series": [
-  {
-    "id": 1,
-    "original_title": "Friends",
-    "titles": [
-      "Friends",
-      "Friends",
-      "Friends"
-    ]
-  },
-  {
-    "id": 2,
-    "original_title": "Breaking Bad",
-    "titles": [
-      "Breaking Bad",
-      "Breaking Bad",
-      "Breaking Bad"
-    ]
-  },
-  {
-    "id": 3,
-    "original_title": "Stranger Things",
-    "titles": [
-      "Stranger Things",
-      "Stranger Things",
-      "Stranger Things"
-    ]
-  },
-  {
-    "id": 4,
-    "original_title": "Game of Thrones",
-    "titles": [
-      "Juego de Tronos",
-      "Game of Thrones",
-      "Game of Thrones"
-    ]
-  },
-  {
-    "id": 5,
-    "original_title": "The Office",
-    "titles": [
-      "The Office",
-      "The Office",
-      "The Office"
-    ]
-  },
-  {
-    "id": 6,
-    "original_title": "Sherlock",
-    "titles": [
-      "Sherlock",
-      "Sherlock",
-      "Sherlock"
-    ]
-  },
-  {
-    "id": 7,
-    "original_title": "Stranger Things",
-    "titles": [
-      "Stranger Things",
-      "Stranger Things",
-      "Stranger Things"
-    ]
-  },
-  {
-    "id": 8,
-    "original_title": "Breaking Bad",
-    "titles": [
-      "Breaking Bad",
-      "Breaking Bad",
-      "Breaking Bad"
-    ]
-  },
-  {
-    "id": 9,
-    "original_title": "Friends",
-    "titles": [
-      "Friends",
-      "Friends",
-      "Friends"
-    ]
-  },
-  {
-    "id": 10,
-    "original_title": "Game of Thrones",
-    "titles": [
-      "Juego de Tronos",
-      "Game of Thrones",
-      "Game of Thrones"
-    ]
-  }
-]
+  "series": [
+    {
+      "id": 1,
+      "original_title": "Friends",
+      "titles": [
+        "Friends",
+        "Amigos",
+        "Colegas"
+      ]
+    },
+    {
+      "id": 2,
+      "original_title": "Breaking Bad",
+      "titles": [
+        "Breaking Bad"
+      ]
+    },
+    {
+      "id": 3,
+      "original_title": "The Simpsons",
+      "titles": [
+        "The Simpsons",
+        "Los Simpson",
+        "Simpsons",
+        "Simpson"
+      ]
+    },
+    {
+      "id": 4,
+      "original_title": "Game of Thrones",
+      "titles": [
+        "Game of Thrones",
+        "Juego de Tronos"
+      ]
+    },
+    {
+      "id": 5,
+      "original_title": "The Sopranos",
+      "titles": [
+        "The Sopranos",
+        "Los Soprano"
+      ]
+    },
+    {
+      "id": 6,
+      "original_title": "Stranger Things",
+      "titles": [
+        "Stranger Things",
+        "Cosas extrañas"
+      ]
+    },
+    {
+      "id": 7,
+      "original_title": "The Office",
+      "titles": [
+        "The Office",
+        "La oficina",
+        "Office"
+      ]
+    },
+    {
+      "id": 8,
+      "original_title": "The Wire",
+      "titles": [
+        "The Wire",
+        "Bajo escucha"
+      ]
+    },
+    {
+      "id": 9,
+      "original_title": "Sherlock",
+      "titles": [
+        "Sherlock"
+      ]
+    },
+    {
+      "id": 10,
+      "original_title": "The Crown",
+      "titles": [
+        "The Crown"
+      ]
+    },
+    {
+      "id": 11,
+      "original_title": "The X-Files",
+      "titles": [
+        "The X-Files",
+        "Expediente X",
+        "Los expedientes secretos X"
+      ]
+    },
+    {
+      "id": 12,
+      "original_title": "Black Mirror",
+      "titles": [
+        "Black Mirror",
+        "Espejo negro"
+      ]
+    },
+    {
+      "id": 13,
+      "original_title": "The Big Bang Theory",
+      "titles": [
+        "The Big Bang Theory",
+        "Big Bang Theory",
+        "La teoria del Big Bang",
+        "Big Bang"
+      ]
+    },
+    {
+      "id": 14,
+      "original_title": "The Mandalorian",
+      "titles": [
+        "The Mandalorian",
+        "Mandalorian"
+      ]
+    },
+    {
+      "id": 15,
+      "original_title": "House of Cards",
+      "titles": [
+        "House of Cards"
+      ]
+    },
+    {
+      "id": 16,
+      "original_title": "Narcos",
+      "titles": [
+        "Narcos"
+      ]
+    },
+    {
+      "id": 17,
+      "original_title": "Better Call Saul",
+      "titles": [
+        "Better Call Saul"
+      ]
+    },
+    {
+      "id": 18,
+      "original_title": "Westworld",
+      "titles": [
+        "Westworld"
+      ]
+    },
+    {
+      "id": 19,
+      "original_title": "True Detective",
+      "titles": [
+        "True Detective"
+      ]
+    },
+    {
+      "id": 20,
+      "original_title": "The Walking Dead",
+      "titles": [
+        "The Walking Dead"
+      ]
+    },
+    {
+      "id": 21,
+      "original_title": "Peaky Blinders",
+      "titles": [
+        "Peaky Blinders"
+      ]
+    },
+    {
+      "id": 22,
+      "original_title": "The Witcher",
+      "titles": [
+        "The Witcher"
+      ]
+    },
+    {
+      "id": 23,
+      "original_title": "The Handmaid's Tale",
+      "titles": [
+        "The Handmaid's Tale",
+        "El cuento de la criada"
+      ]
+    },
+    {
+      "id": 24,
+      "original_title": "True Blood",
+      "titles": [
+        "True Blood"
+      ]
+    },
+    {
+      "id": 25,
+      "original_title": "The Twilight Zone",
+      "titles": [
+        "The Twilight Zone",
+        "Dimensión desconocida",
+        "La dimensión desconocida"
+      ]
+    },
+    {
+      "id": 26,
+      "original_title": "M*A*S*H",
+      "titles": [
+        "M*A*S*H",
+        "MASH",
+        "M A S H"
+      ]
+    },
+    {
+      "id": 27,
+      "original_title": "The Andy Griffith Show",
+      "titles": [
+        "The Andy Griffith Show",
+        "El show de Andy Griffith",
+        "Andy Griffith"
+      ]
+    },
+    {
+      "id": 28,
+      "original_title": "I Love Lucy",
+      "titles": [
+        "I Love Lucy",
+        "Me gusta Lucy"
+      ]
+    },
+    {
+      "id": 29,
+      "original_title": "The Honeymooners",
+      "titles": [
+        "The Honeymooners",
+        "Los recién casados"
+      ]
+    },
+    {
+      "id": 30,
+      "original_title": "The Brady Bunch",
+      "titles": [
+        "The Brady Bunch",
+        "La tribu de los Brady"
+      ]
+    },
+    {
+      "id": 31,
+      "original_title": "Bewitched",
+      "titles": [
+        "Bewitched",
+        "Hechizada"
+      ]
+    },
+    {
+      "id": 32,
+      "original_title": "Gilligan's Island",
+      "titles": [
+        "Gilligan's Island",
+        "La isla de Gilligan"
+      ]
+    },
+    {
+      "id": 33,
+      "original_title": "The Addams Family",
+      "titles": [
+        "The Addams Family",
+        "Addams Family",
+        "La Familia Addams",
+        "Familia Addams",
+        "Los locos Addams",
+        "locos Addams"
+      ]
+    },
+    {
+      "id": 34,
+      "original_title": "The Munsters",
+      "titles": [
+        "The Munsters",
+        "los Munsters"
+      ]
+    },
+    {
+      "id": 35,
+      "original_title": "The Mary Tyler Moore Show",
+      "titles": [
+        "The Mary Tyler Moore Show",
+        "El show de Mary Tyler Moore",
+        "Mary Tyler Moore"
+      ]
+    },
+    {
+      "id": 36,
+      "original_title": "I Dream of Jeannie",
+      "titles": [
+        "I Dream of Jeannie",
+        "Mi bella genio"
+      ]
+    },
+    {
+      "id": 37,
+      "original_title": "The Jeffersons",
+      "titles": [
+        "The Jeffersons",
+        "Los Jefferson",
+        "Jefferson"
+      ]
+    },
+    {
+      "id": 38,
+      "original_title": "The Beverly Hillbillies",
+      "titles": [
+        "The Beverly Hillbillies",
+        "Los Beverly ricos"
+      ]
+    },
+    {
+      "id": 39,
+      "original_title": "Happy Days",
+      "titles": [
+        "Happy Days",
+        "Días felices"
+      ]
+    },
+    {
+      "id": 40,
+      "original_title": "The Dick Van Dyke Show",
+      "titles": [
+        "The Dick Van Dyke Show",
+        "El show de Dick Van Dyke",
+        "Dick Van Dyke"
+      ]
+    },
+    {
+      "id": 41,
+      "original_title": "Mister Ed",
+      "titles": [
+        "Mister Ed"
+      ]
+    },
+    {
+      "id": 42,
+      "original_title": "The West Wing",
+      "titles": [
+        "The West Wing",
+        "El ala oeste de la Casa Blanca"
+      ]
+    },
+    {
+      "id": 43,
+      "original_title": "Twin Peaks",
+      "titles": [
+        "Twin Peaks"
+      ]
+    },
+    {
+      "id": 44,
+      "original_title": "The Fresh Prince of Bel-Air",
+      "titles": [
+        "The Fresh Prince of Bel-Air",
+        "The Fresh Prince of BelAir",
+        "The Fresh Prince of Bel Air",
+        "El príncipe de Bel-Air",
+        "El príncipe de BelAir",
+        "El príncipe del rap",
+        "Príncipe del rap"
+      ]
+    },
+    {
+      "id": 45,
+      "original_title": "Doctor Who",
+      "titles": [
+        "doctor who"
+        
+      ]
+    },
+    {
+      "id": 46,
+      "original_title": "Lost",
+      "titles": [
+        "perdidos",
+        "lost"
+      ]
+    },
+    {
+      "id": 47,
+      "original_title": "Loki",
+      "titles": [
+        "loki",
+        "loky"        
+      ]
+    },
+    {
+      "id": 48,
+      "original_title": "Andor",
+      "titles": [
+        "Andor",
+        "star wars: Andor",
+        "star wars Andor"
+      ]
+    },
+    {
+      "id": 49,
+      "original_title": "Silo",
+      "titles": [
+        "silo"
+      ]
+    },
+    {
+      "id": 50,
+      "original_title": "Ted Lasso",
+      "titles": [
+        "Ted Lasso",
+        "Ted Laso"
+      ]
+    }    
+  ]
 }
