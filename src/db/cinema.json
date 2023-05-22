@@ -2,86 +2,449 @@
   "cinema": [
     {
       "id": 1,
-      "original_title": "Star Wars: Episode IV - A New Hope",
+      "original_title": "The Shawshank Redemption",
       "titles": [
-        "La Guerra de las Galaxias: Episodio IV - Una Nueva Esperanza",
-        "La Guerra de las Galaxias: Episodio IV - Una Nueva Esperanza",
-        "Star Wars: Episode IV - A New Hope"
+        "The Shawshank Redemption",
+        "Sueño de fuga",
+        "Cadena perpetua"
       ]
     },
     {
       "id": 2,
-      "original_title": "The Shawshank Redemption",
+      "original_title": "The Godfather",
       "titles": [
-        "Cadena Perpetua",
-        "Sueño de Fuga",
-        "The Shawshank Redemption"
+        "The Godfather",
+        "El padrino",
+        "El Padrino",
+        "padrino",
+        "padrino uno", 
+        "padrino 1"
       ]
     },
     {
       "id": 3,
-      "original_title": "The Godfather",
+      "original_title": "Pulp Fiction",
       "titles": [
-        "El Padrino",
-        "El Padrino",
-        "The Godfather"
+        "Pulp Fiction",
+        "Tiempos violentos",
+        "Tiempos de violencia"
       ]
     },
     {
       "id": 4,
       "original_title": "The Dark Knight",
       "titles": [
-        "El Caballero oscuro",
-        "El Caballero de la Noche",
-        "The Dark Knight"
+        "The Dark Knight",
+        "El caballero oscuro",
+        "El caballero de la noche",
+        "Batman: El caballero oscuro",
+        "Batman: El caballero de la noche"
       ]
     },
     {
       "id": 5,
-      "original_title": "Pulp Fiction",
+      "original_title": "Fight Club",
       "titles": [
-        "Tiempos Violentos",
-        "Pulp Fiction"
+        "Fight Club",
+        "El club de la pelea",
+        "El club de la lucha"
       ]
     },
     {
       "id": 6,
-      "original_title": "The Matrix",
+      "original_title": "Forrest Gump",
       "titles": [
-        "Matrix",
-        "The Matrix"
+        "Forrest Gump",
+        "Forest Gump"
       ]
     },
     {
       "id": 7,
-      "original_title": "Forrest Gump",
+      "original_title": "Inception",
       "titles": [
-        "Forrest Gump"
+        "Inception",
+        "Origen",
+        "El origen"
       ]
     },
     {
       "id": 8,
-      "original_title": "Back to the Future",
+      "original_title": "The Matrix",
       "titles": [
-        "Regreso al Futuro",
-        "Volver al Futuro",
-        "Back to the Future"
+        "The Matrix",
+        "Matrix",
+        "Matrix uno",
+        "Matrix 1"
       ]
     },
     {
       "id": 9,
-      "original_title": "Jurassic Park",
+      "original_title": "Goodfellas",
       "titles": [
-        "Parque Jurásico",
-        "Jurassic Park"
+        "Goodfellas",
+        "Uno de los nuestros",
+        "Buenos muchachos"
       ]
     },
     {
       "id": 10,
-      "original_title": "Indiana Jones and the Raiders of the Lost Ark",
+      "original_title": "The Lord of the Rings: The Fellowship of the Ring",
       "titles": [
-        "Indiana Jones y los cazadores del arca perdida",
-        "Indiana Jones and the Raiders of the Lost Ark"
+        "The Lord of the Rings: The Fellowship of the Ring",
+        "El Señor de los Anillos: La Comunidad del Anillo",
+        "El señor de los anillos: La comunidad del anillo", 
+        "Lord of the Rings",
+        "El señor de los anillos",
+        "La comunidad del anillo"
+      ]
+    },
+    {
+      "id": 11,
+      "original_title": "The Usual Suspects",
+      "titles": [
+        "The Usual Suspects",
+        "Sospechosos habituales",
+        "Los sospechosos de siempre"
+      ]
+    },
+    {
+      "id": 12,
+      "original_title": "Se7en",
+      "titles": [
+        "Se7en",
+        "Seven",
+        "Seven: Pecados capitales",
+        "pecados capitales"
+      ]
+    },
+    {
+      "id": 13,
+      "original_title": "Gone with the Wind",
+      "titles": [
+        "Gone with the Wind",
+        "Lo que el viento se llevó"
+      ]
+    },
+    {
+      "id": 14,
+      "original_title": "Schindler's List",
+      "titles": [
+        "Schindler's List",
+        "La lista de Schindler"
+      ]
+    },
+    {
+      "id": 15,
+      "original_title": "The Silence of the Lambs",
+      "titles": [
+        "The Silence of the Lambs",
+        "El silencio de los corderos",
+        "El silencio de los inocentes"
+      ]
+    },
+    {
+      "id": 16,
+      "original_title": "The Lion King",
+      "titles": [
+        "The Lion King",
+        "El Rey León"
+      ]
+    },
+    {
+      "id": 17,
+      "original_title": "Casablanca",
+      "titles": [
+        "Casablanca"
+      ]
+    },
+    {
+      "id": 18,
+      "original_title": "Saving Private Ryan",
+      "titles": [
+        "Saving Private Ryan",
+        "Salvar al soldado Ryan",
+        "Rescatando al soldado Ryan"
+      ]
+    },
+    {
+      "id": 19,
+      "original_title": "Back to the Future",
+      "titles": [
+        "Back to the Future",
+        "Regreso al futuro",
+        "Volver al futuro"
+      ]
+    },
+    {
+      "id": 20,
+      "original_title": "Titanic",
+      "titles": [
+        "Titanic"
+      ]
+    },
+    {
+      "id": 21,
+      "original_title": "Raiders of the Lost Ark",
+      "titles": [
+        "Raiders of the Lost Ark",
+        "En busca del arca perdida",
+        "En busca del arca perdida",
+        "Indiana Jones", 
+        "El arca perdida"
+      ]
+    },
+    {
+      "id": 22,
+      "original_title": "The Green Mile",
+      "titles": [
+        "The Green Mile",
+        "Milagros inesperados",
+        "La milla verde"
+      ]
+    },
+    {
+      "id": 23,
+      "original_title": "The Shining",
+      "titles": [
+        "The Shining",
+        "El resplandor"
+      ]
+    },
+    {
+      "id": 24,
+      "original_title": "Gladiator",
+      "titles": [
+        "Gladiator"
+      ]
+    },
+    {
+      "id": 25,
+      "original_title": "Braveheart",
+      "titles": [
+        "Braveheart",
+        "Corazón valiente"
+      ]
+    },
+    {
+      "id": 26,
+      "original_title": "The Departed",
+      "titles": [
+        "The Departed",
+        "Infiltrados",
+        "Los infiltrados"
+      ]
+    },
+    {
+      "id": 27,
+      "original_title": "The Pianist",
+      "titles": [
+        "The Pianist",
+        "El pianista"
+      ]
+    },
+    {
+      "id": 28,
+      "original_title": "The Godfather: Part II",
+      "titles": [
+        "The Godfather: Part II",
+        "The Godfather Part II",
+        "El padrino: Parte II",
+        "El Padrino Parte II",
+        "El Padrino: segunda parte",
+        "el padrino 2",
+        "El Padrino dos"
+      ]
+    },
+    {
+      "id": 29,
+      "original_title": "The Avengers",
+      "titles": [
+        "The Avengers",
+        "Los Vengadores"
+      ]
+    },
+    {
+      "id": 30,
+      "original_title": "Interstellar",
+      "titles": [
+        "Interstellar"
+      ]
+    },
+    {
+      "id": 31,
+      "original_title": "Django Unchained",
+      "titles": [
+        "Django Unchained",
+        "Django desencadenado",
+        "Django sin cadenas"
+      ]
+    },
+    {
+      "id": 32,
+      "original_title": "The Godfather: Part III",
+      "titles": [
+        "The Godfather: Part III",
+        "The Godfather Part III",
+        "El padrino: Parte III",
+        "El Padrino Tercera parte parte",
+        "el padrino 3",
+        "El Padrino tres"
+      ]
+    },
+    {
+      "id": 33,
+      "original_title": "Jurassic Park",
+      "titles": [
+        "Jurassic Park",
+        "Parque Jurásico"
+      ]
+    },
+    {
+      "id": 34,
+      "original_title": "The Sixth Sense",
+      "titles": [
+        "The Sixth Sense",
+        "El sexto sentido"
+      ]
+    },
+    {
+      "id": 35,
+      "original_title": "The Social Network",
+      "titles": [
+        "The Social Network",
+        "La red social"
+      ]
+    },
+    {
+      "id": 36,
+      "original_title": "Inglourious Basterds",
+      "titles": [
+        "Inglourious Basterds",
+        "Malditos bastardos",
+        "Bastardos sin gloria"
+      ]
+    },
+    {
+      "id": 37,
+      "original_title": "The Great Gatsby",
+      "titles": [
+        "The Great Gatsby",
+        "El gran Gatsby"
+      ]
+    },
+    {
+      "id": 38,
+      "original_title": "The Revenant",
+      "titles": [
+        "The Revenant",
+        "El renacido"
+      ]
+    },
+    {
+      "id": 39,
+      "original_title": "La La Land",
+      "titles": [
+        "La La Land"
+      ]
+    },
+    {
+      "id": 40,
+      "original_title": "The Avengers: Endgame",
+      "titles": [
+        "The Avengers: Endgame",
+        "Vengadores: Endgame",
+        "Avengers: Endgame",
+        "Los Vengadores: Endgame",
+        "The Avengers Endgame",
+        "Vengadores Endgame",
+        "Avengers Endgame",
+        "Los Vengadores Endgame"
+      ]
+    },
+    {
+      "id": 41,
+      "original_title": "The Prestige",
+      "titles": [
+        "The Prestige",
+        "El truco final",
+        "El gran truco"
+      ]
+    },
+    {
+      "id": 42,
+      "original_title": "Whiplash",
+      "titles": [
+        "Whiplash",
+        "Whiplash: Música y obsesión",
+        "Whiplash"
+      ]
+    },
+    {
+      "id": 43,
+      "original_title": "The Notebook",
+      "titles": [
+        "The Notebook",
+        "El diario de Noa",
+        "Diario de una pasión"
+      ]
+    },
+    {
+      "id": 44,
+      "original_title": "The Truman Show",
+      "titles": [
+        "The Truman Show",
+        "El show de Truman"
+      ]
+    },
+    {
+      "id": 45,
+      "original_title": "The Pursuit of Happyness",
+      "titles": [
+        "The Pursuit of Happyness",
+        "En busca de la felicidad",
+        "En persiguiendo la felicidad"
+      ]
+    },
+    {
+      "id": 46,
+      "original_title": "American Beauty",
+      "titles": [
+        "American Beauty",
+        "Belleza americana"
+      ]
+    },
+    {
+      "id": 47,
+      "original_title": "The Wolf of Wall Street",
+      "titles": [
+        "The Wolf of Wall Street",
+        "El lobo de Wall Street"
+      ]
+    },
+    {
+      "id": 48,
+      "original_title": "Eternal Sunshine of the Spotless Mind",
+      "titles": [
+        "Eternal Sunshine of the Spotless Mind",
+        "¡Olvídate de mí!",
+        "Olvídate de mí",
+        "Eterno resplandor de una mente sin recuerdos"
+      ]
+    },
+    {
+      "id": 49,
+      "original_title": "The Princess Bride",
+      "titles": [
+        "The Princess Bride",
+        "La princesa prometida"
+      ]
+    },
+    {
+      "id": 50,
+      "original_title": "The Grand Budapest Hotel",
+      "titles": [
+        "The Grand Budapest Hotel",
+        "El gran hotel Budapest"
       ]
     }
   ]
