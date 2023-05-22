@@ -12,6 +12,7 @@ import FormGame from '../ui/FormGame'
 
 import { DESCRIPTION_SECTION } from '../../utils/consts'
 
+import Confetti from 'react-confetti'
 import { Shake } from 'reshake'
 
 const pathName = window.location.pathname
@@ -38,6 +39,7 @@ export const GamePage = () => {
           />
         </header>
         <footer className='w-full flex flex-col gap-4 justify-center items-center'>
+          {game.isCorrect && <Confetti className='absolute w-full'/>}
           <div className='relative w-full flex justify-center items-center border-2 border-gifyellow rounded-2xl overflow-hidden'>
             {
               (game.isSurrender || game.isCorrect) && (
