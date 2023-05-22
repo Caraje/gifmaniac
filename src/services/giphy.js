@@ -10,5 +10,6 @@ export const getGifs = async (title) => {
       url: gif.images?.original.url
     }
   })
-  return gifList
+
+  return gifList.sort((a, b) => 0.5 - Math.random())
 }
